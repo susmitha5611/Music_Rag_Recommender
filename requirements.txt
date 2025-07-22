@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+chromadb
+sentence-transformers
+matplotlib
+seaborn
+plotly
+spotipy
+kaggle
+umap-learn
+streamlit
+streamlit-option-menu
+streamlit-plotly-events
+altair 
